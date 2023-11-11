@@ -1,0 +1,66 @@
+.infos {
+    text-align: start;
+    padding: 140px;
+    background-color:white;
+    margin: 1PX;
+    border-radius: 10PX;
+    box-shadow: 4px 1px 14px black;
+    width: 300px;
+    padding: 100PX;
+    display: block;
+    transform: translate(70%, 1%);
+    height: 405px;
+    margin: 35PX;
+    
+    }
+    .S{
+       
+        color: blue;
+    }
+    .SE{
+        width: 90px;
+       
+       color:white;
+       
+    }
+    .E{
+        
+        padding-left:0PX;
+        text-align: start;
+    }
+    .M{
+        
+        padding-left:0PX;
+        text-align: start;
+    }
+    .t{
+        color: blue;
+        margin-bottom: 5PX;
+    }
+    .te{
+        color: blue;
+        margin-bottom: 5PX;
+    }
+    .O{
+        width: 300px;
+    }
+    button{
+        background-color: blue;
+        
+    }
+    
+    h2{
+        color: blue;
+    }
+    .succes{
+        color: blue;
+        font-size: 15px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .echec{
+        color: red;
+        font-size: 15px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }

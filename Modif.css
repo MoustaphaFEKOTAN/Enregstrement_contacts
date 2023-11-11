@@ -1,0 +1,75 @@
+.infos {
+    text-align: start;
+    padding: 140px;
+    background-color:white;
+    margin: 20PX;
+    border-radius: 10PX;
+    box-shadow: 4px 1px 14px black;
+    width: 300px;
+    margin: 90PX;
+    padding: 100PX;
+    display: block;
+    transform: translate(60%, -1%);
+    height: 100px;
+    }
+    
+    .S{
+      
+        color: blue;
+       
+        text-decoration: underline;
+    }
+       
+    .SE{
+        width: 140px; 
+       color:white;
+    
+       
+    }
+    .succes{
+        color: blue;
+        font-size: 18px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .echec{
+        color: red;
+        font-size: 18px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .messagebienvenue{
+    color: blue;
+    text-align: center;
+    }
+    
+    .E{
+        margin: -95px;
+        padding: 90PX;
+        text-align: start;
+    }
+    
+    .t{
+        color: blue;
+        margin-bottom: 5PX;
+    }
+    
+    .O{
+        width: 200px;
+    }
+    button{
+        background-color: blue;
+        margin: 45px;
+        width: 150px;
+        transform: translate(20%, 20%);
+    }
+    
+    
+    button.SEV{
+        background-color: blue;
+        margin: 45px;
+        width: 150px;
+        transform: translate(100%, -270%);
+    
+    }
+    

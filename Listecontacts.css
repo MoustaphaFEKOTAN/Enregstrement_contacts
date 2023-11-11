@@ -1,0 +1,108 @@
+
+.infos {
+    text-align: start;
+    padding: 140px;
+    margin: 20PX;
+    border-radius: 10PX;
+    /*box-shadow: 4px 12px 44px black; 
+    width: 300px;
+    margin: 80PX;
+    padding: 100PX;
+    display: block;
+    transform: translate(60%, -1%);
+    height: 630px; */
+     ;
+    }
+    
+    .S{
+       padding: 0px;
+       padding-bottom: 110px;
+        color: blue;
+        margin: -40px;
+        text-decoration: underline;
+        
+        margin-right: 15px;
+    }
+    
+   
+    button.D{
+        background-color: blue;
+        margin-left: 550px;
+        width: 150px;
+        color:white;
+        transform: translate(6%, -283%)
+    }
+    .SE{
+        width: 140px; 
+      
+       
+    }
+    
+table.tab {
+    width: 100%; /* Utilisez toute la largeur disponible */
+    border-collapse: collapse; /* Fusionner les bordures des cellules */
+}
+
+td, th {
+    padding: 10px; /* Espacement interne des cellules */
+    border: 1px solid #ccc; /* Bordures des cellules */
+}
+
+.monimg1,
+.monimg2 {
+    width: 40px; /* Ajustez cette valeur selon vos besoins */
+    vertical-align: middle; /* Alignement vertical au centre des images */
+    cursor: pointer;
+}
+
+.actions {
+    text-align: center; /* Centrer le contenu des cellules d'actions */
+}
+
+.color{
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button.Theme{
+    padding: 20px;
+    margin-Top: -70px;
+    background-color: blue;
+    color:white;
+}
+
+.Theme{
+    padding-bottom: 89%;
+    transform: translate(850PX, -1150%);
+             /*Gauche/droite--,--Bas/haut */
+}
+
+
+/* Mode sombre */
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+/* Mode clair */
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+
+/* Changer la couleur du texte en blanc dans le mode sombre */
+body.dark-mode th,
+body.dark-mode h2,
+body.dark-mode td
+
+{
+    color: white;
+}
+
+body.dark-mode button.Theme,
+body.dark-mode  button.D
+{
+    background-color: white;
+    color:black;
+}

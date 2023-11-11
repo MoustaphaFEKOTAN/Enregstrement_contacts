@@ -1,0 +1,50 @@
+.infos {
+text-align: start;
+padding: 140px;
+background-color:white;
+margin: 20PX;
+border-radius: 10PX;
+box-shadow: 4px 1px 14px black;
+width: 300px;
+margin: 90PX;
+padding: 100PX;
+display: block;
+transform: translate(60%, 1%);
+height: 300px;
+}
+
+.S{
+   
+    color: blue;
+}
+.SE{
+    width: 90px; 
+   color:white;
+   
+}
+
+.M{
+    
+    padding-left:0PX;
+    text-align: start;
+}
+.t{
+    color: blue;
+    margin-bottom: 5PX;
+}
+.te{
+    color: blue;
+    margin-bottom: 5PX;
+}
+.O{
+    width: 300px;
+}
+button{
+    background-color: blue;
+    
+}
+
+p{
+    color: red;
+
+}
