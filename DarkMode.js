@@ -23,3 +23,12 @@ l'expression après le : est renvoyée. */
 }
 
 
+function confirmDelete() {
+    document.querySelectorAll('.delete-link').forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            if (!confirm("Êtes-vous sûr de vouloir supprimer ce contact ?")) {
+                event.preventDefault(); // Empêche le suivi du lien si l'utilisateur annule
+            }
+        });
+    });
+  }
